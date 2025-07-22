@@ -1,3 +1,4 @@
+![Logo](logo-sin_fondo.png)
 # Nombre de mi empresa: Skyward Shield
 Slogan: Donde tu ves un obstaculo, yo veo plata 
   
